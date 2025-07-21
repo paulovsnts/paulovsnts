@@ -25,34 +25,34 @@
 
 <h3>🧠 Linguagens</h3>
 <p>
-  <img src="./assets/icons/csharp.svg" alt="C#" width="40" />
-  <img src="./assets/icons/javascript.svg" alt="JavaScript" width="40" />
-  <img src="./assets/icons/python.svg" alt="Python" width="40" />
-  <img src="./assets/icons/typescript.svg" alt="TypeScript" width="40" />
-  <img src="./assets/icons/kotlin.svg" alt="Kotlin" width="40" />
+  <img src="./assets/icons/csharp-original.svg" alt="C#" width="40" />
+  <img src="./assets/icons/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="./assets/icons/python-original.svg" alt="Python" width="40" />
+  <img src="./assets/icons/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="./assets/icons/kotlin-original.svg" alt="Kotlin" width="40" />
 </p>
 
 <h3>🧩 Frameworks</h3>
 <p>
-  <img src="./assets/icons/react.svg" alt="React" width="40" />
-  <img src="./assets/icons/flutter.svg" alt="Flutter" width="40" />
-  <img src="./assets/icons/dotnet.svg" alt=".NET" width="40" />
+  <img src="./assets/icons/reactnative-original.svg" alt="React" width="40" />
+  <img src="./assets/icons/flutter-original.svg" alt="Flutter" width="40" />
+  <img src="./assets/icons/dot-net-original.svg" alt=".NET" width="40" />
 </p>
 
 <h3>🗄️ Bancos de Dados</h3>
 <p>
-  <img src="./assets/icons/mysql.svg" alt="MySQL" width="40" />
-  <img src="./assets/icons/mongodb.svg" alt="MongoDB" width="40" />
-  <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="40" />
-  <img src="./assets/icons/sqlserver.svg" alt="SQL Server" width="40" />
+  <img src="./assets/icons/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="./assets/icons/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="./assets/icons/postgresql-plain.svg" alt="PostgreSQL" width="40" />
+  <img src="./assets/icons/sqldeveloper-plain.svg" alt="SQL Server" width="40" />
 </p>
 
 <h3>🛠️ Ferramentas e Serviços</h3>
 <p>
-  <img src="./assets/icons/html.svg" alt="HTML" width="40" />
-  <img src="./assets/icons/css.svg" alt="CSS" width="40" />
-  <img src="./assets/icons/firebase.svg" alt="Firebase" width="40" />
-  <img src="./assets/icons/aws.svg" alt="AWS" width="40" />
+  <img src="./assets/icons/html5-original.svg" alt="HTML" width="40" />
+  <img src="./assets/icons/css3-original.svg" alt="CSS" width="40" />
+  <img src="./assets/icons/firebase-original.svg" alt="Firebase" width="40" />
+  <img src="./assets/icons/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
 </p>
 
 <br>
