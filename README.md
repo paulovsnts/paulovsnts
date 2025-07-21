@@ -23,29 +23,24 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
+### 🧠 Linguagens
+<div>
+  <img src="https://skillicons.dev/icons?i=csharp,js,python,ts,kotlin" />
+</div>
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Python](https://skillicons.dev/icons?i=python)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![C#](https://skillicons.dev/icons?i=csharp)
-<br>
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![SQL Server](https://skillicons.dev/icons?i=mssql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![.NET](https://skillicons.dev/icons?i=dotnet)
-<br>
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Figma](https://skillicons.dev/icons?i=figma)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+### 🧩 Frameworks
+<div>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dotnet" />
+</div>
 
+### 🗄️ Bancos de Dados
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,mssql" />
+</div>
+
+### 🛠️ Ferramentas e Serviços
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,aws" />
 </div>
 
 <br>
