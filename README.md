@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_IMAGEM_CABECALHO" alt="Banner do Perfil" width="100%"/>
+  <img src="./assets/Banner Profissional.png" alt="Banner do Perfil" width="100%"/>
 </p>
 
 <h1 align="center"> 👋 Olá, eu sou Paulo Vitor </h1>
@@ -21,27 +21,39 @@
 
 <br>
 
-## 🚀 Tecnologias e Ferramentas
+<h2>🚀 Tecnologias e Ferramentas</h2>
 
-### 🧠 Linguagens
-<div>
-  <img src="https://skillicons.dev/icons?i=csharp,js,python,ts,kotlin" />
-</div>
+<h3>🧠 Linguagens</h3>
+<p>
+  <img src="./assets/icons/csharp.svg" alt="C#" width="40" />
+  <img src="./assets/icons/javascript.svg" alt="JavaScript" width="40" />
+  <img src="./assets/icons/python.svg" alt="Python" width="40" />
+  <img src="./assets/icons/typescript.svg" alt="TypeScript" width="40" />
+  <img src="./assets/icons/kotlin.svg" alt="Kotlin" width="40" />
+</p>
 
-### 🧩 Frameworks
-<div>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dotnet" />
-</div>
+<h3>🧩 Frameworks</h3>
+<p>
+  <img src="./assets/icons/react.svg" alt="React" width="40" />
+  <img src="./assets/icons/flutter.svg" alt="Flutter" width="40" />
+  <img src="./assets/icons/dotnet.svg" alt=".NET" width="40" />
+</p>
 
-### 🗄️ Bancos de Dados
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,mssql" />
-</div>
+<h3>🗄️ Bancos de Dados</h3>
+<p>
+  <img src="./assets/icons/mysql.svg" alt="MySQL" width="40" />
+  <img src="./assets/icons/mongodb.svg" alt="MongoDB" width="40" />
+  <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="40" />
+  <img src="./assets/icons/sqlserver.svg" alt="SQL Server" width="40" />
+</p>
 
-### 🛠️ Ferramentas e Serviços
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,firebase,aws" />
-</div>
+<h3>🛠️ Ferramentas e Serviços</h3>
+<p>
+  <img src="./assets/icons/html.svg" alt="HTML" width="40" />
+  <img src="./assets/icons/css.svg" alt="CSS" width="40" />
+  <img src="./assets/icons/firebase.svg" alt="Firebase" width="40" />
+  <img src="./assets/icons/aws.svg" alt="AWS" width="40" />
+</p>
 
 <br>
 
