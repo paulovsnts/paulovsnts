@@ -27,6 +27,8 @@
 
 ## Tecnologias e Ferramentas
 
+<div align="center">
+
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -48,6 +50,7 @@
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 
+</div>
 <br>
 
 ## Minhas Estatísticas no Github
