@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
   <img src="URL_IMAGEM_CABECALHO" alt="Banner do Perfil" width="100%/>
 </p>
 
@@ -27,19 +27,27 @@
 
 ## Tecnologias e Ferramentas
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, js, react, python, flutter, csharp" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nodejs, express, mysql, mssql, mongodb, dotnet" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git, github, figma, vscode, visualstudio" />
-  </a>
-</p>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Python](https://skillicons.dev/icons?i=python)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![C#](https://skillicons.dev/icons?i=csharp)
+<br>
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQL Server](https://skillicons.dev/icons?i=mssql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+<br>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+
 <br>
 
 ## Minhas Estatísticas no Github
