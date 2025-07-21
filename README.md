@@ -35,7 +35,7 @@
 <h3>🧩 Frameworks</h3>
 <p>
   <img src="./assets/icons/reactnative-original.svg" alt="React" width="40" />
-  <img src="./assets/icons/flutter-original.svg" alt="Flutter" width="40" />
+  <img src="./assets/icons/flutter-plain.svg" alt="Flutter" width="40" />
   <img src="./assets/icons/dot-net-original.svg" alt=".NET" width="40" />
 </p>
 
