@@ -78,10 +78,10 @@
   <a href="https://seu-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="https://twitter.com/seu_usuario" target="_blank">
+  <a href="https://twitter.com/dev_paulovsnts" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:paulovsnts47@gmail.com" target="_blank">
+  <a href="mailto:paulovsnts.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
