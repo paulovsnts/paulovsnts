@@ -52,6 +52,7 @@
   <img src="./assets/icons/html5-original.svg" alt="HTML" width="40" />
   <img src="./assets/icons/css3-original.svg" alt="CSS" width="40" />
   <img src="./assets/icons/firebase-original.svg" alt="Firebase" width="40" />
+  <img src="./assets/icons/git-original.svg" alt="Git" width="40" />
   <img src="./assets/icons/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
 </p>
 
