@@ -15,7 +15,7 @@
   - 🚀 Atualmente, estagiando na empresa <strong>Itatech.Jr</strong> como desenvolvedor web.<br>
   - 📚 Aprendendo sobre <strong>React</strong>, <strong>React Native</strong> e <strong>Flutter</strong>.<br>
   - 💬 Me pergunte sobre <strong>C#</strong>, <strong>Python</strong> e <strong>JavaScript</strong>.<br>
-  - 📫 Como me encontrar: paulovsnts47@gmail.com<br> 
+  - 📫 Como me encontrar: paulovsnts.dev@gmail.com<br> 
   - 🎷 Curiosidade: fora da programação, eu sou saxofonista e tenho bastante interesse nos mundos gamer e geek.
 </p>
 
