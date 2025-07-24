@@ -37,6 +37,7 @@
   <img src="./assets/icons/reactnative-original.svg" alt="React" width="40" />
   <img src="./assets/icons/flutter-plain.svg" alt="Flutter" width="40" />
   <img src="./assets/icons/dot-net-original.svg" alt=".NET" width="40" />
+  <img src="./assets/icons/nodejs-original.svg" alt="Nodejs" width="40" />
 </p>
 
 <h3>🗄️ Bancos de Dados</h3>
