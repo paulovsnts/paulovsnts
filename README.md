@@ -76,7 +76,7 @@
   <a href="https://linkedin.com/in/paulovsnts" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://seu-portfolio.com" target="_blank">
+  <a href="https://paulovsnts.github.io/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://twitter.com/dev_paulovsnts" target="_blank">
