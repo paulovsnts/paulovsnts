@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 👋 Olá, eu sou Paulo Vitor </h1>
-<h3 align="center">💻 Desenvolvedor Full-stack | 📱 Desenvolvedor Mobile | 📊 Entusiasta em dados</h3>
+<h3 align="center">💻 Desenvolvedor Full-Stack (Front-End) | 📱 Desenvolvedor Mobile | 📊 Entusiasta em dados</h3>
 
 <br>
 
@@ -12,10 +12,10 @@
   Sou um estudante de Sistemas de Informação apaixonado por tecnologia, especialmente desenvolvimento e dados. Atualmente,
   estou focado em desenvolvimento web e mobile, mas também me interesso fortemente na área de dados.
   <br><br>
-  - 🚀 Atualmente, estagiando na empresa <strong>Itatech.Jr</strong> como desenvolvedor web.<br>
-  - 📚 Aprendendo sobre <strong>React</strong>, <strong>React Native</strong> e <strong>Flutter</strong>.<br>
+  - 🚀 Atualmente, trabalhando na empresa <strong>SergipeTec</strong> alocado na <strong>SEFAZ/SE</strong> como desenvolvedor Front-End.<br>
+  - 📚 Aprendendo sobre <strong>Angular</strong>, <strong>Typescript</strong> e <strong>Flutter</strong>.<br>
   - 💬 Me pergunte sobre <strong>C#</strong>, <strong>Python</strong> e <strong>JavaScript</strong>.<br>
-  - 📫 Como me encontrar: paulovsnts47@gmail.com<br> 
+  - 📫 Como me encontrar: paulovsnts.dev@gmail.com<br> 
   - 🎷 Curiosidade: fora da programação, eu sou saxofonista e tenho bastante interesse nos mundos gamer e geek.
 </p>
 
@@ -29,14 +29,17 @@
   <img src="./assets/icons/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="./assets/icons/python-original.svg" alt="Python" width="40" />
   <img src="./assets/icons/typescript-original.svg" alt="TypeScript" width="40" />
-  <img src="./assets/icons/kotlin-original.svg" alt="Kotlin" width="40" />
+  <img src="./assets/icons/java-original.svg" alt="Java" width="40" />
+  <img src="./assets/icons/dart-original.svg" alt="Dart" width="40" />
 </p>
 
 <h3>🧩 Frameworks</h3>
 <p>
+  <img src="./assets/icons/angular-original.svg" alt="Angular" width="40" />
   <img src="./assets/icons/reactnative-original.svg" alt="React" width="40" />
   <img src="./assets/icons/flutter-plain.svg" alt="Flutter" width="40" />
   <img src="./assets/icons/dot-net-original.svg" alt=".NET" width="40" />
+  <img src="./assets/icons/spring-original.svg" alt="Spring Boot" width="40" />
 </p>
 
 <h3>🗄️ Bancos de Dados</h3>
@@ -52,7 +55,9 @@
   <img src="./assets/icons/html5-original.svg" alt="HTML" width="40" />
   <img src="./assets/icons/css3-original.svg" alt="CSS" width="40" />
   <img src="./assets/icons/firebase-original.svg" alt="Firebase" width="40" />
+  <img src="./assets/icons/cypress-original.svg" alt="Cypress" width="40" />
   <img src="./assets/icons/git-original.svg" alt="Git" width="40" />
+  <img src="./assets/icons/gitlab-original.svg" alt="Gitlab" width="40" />
   <img src="./assets/icons/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" />
 </p>
 
@@ -81,7 +86,7 @@
   <a href="https://twitter.com/seu_usuario" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:paulovsnts47@gmail.com" target="_blank">
+  <a href="mailto:paulovsnts.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
