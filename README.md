@@ -39,11 +39,7 @@
   <img src="./assets/icons/reactnative-original.svg" alt="React" width="40" />
   <img src="./assets/icons/flutter-plain.svg" alt="Flutter" width="40" />
   <img src="./assets/icons/dot-net-original.svg" alt=".NET" width="40" />
-<<<<<<< HEAD
   <img src="./assets/icons/spring-original.svg" alt="Spring Boot" width="40" />
-=======
-  <img src="./assets/icons/nodejs-original.svg" alt="Nodejs" width="40" />
->>>>>>> 20ccc3d0a05c1c3705c0e01ccd8a6c1ed5885bb2
 </p>
 
 <h3>🗄️ Bancos de Dados</h3>
