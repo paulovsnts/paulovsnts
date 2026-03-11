@@ -39,7 +39,11 @@
   <img src="./assets/icons/reactnative-original.svg" alt="React" width="40" />
   <img src="./assets/icons/flutter-plain.svg" alt="Flutter" width="40" />
   <img src="./assets/icons/dot-net-original.svg" alt=".NET" width="40" />
+<<<<<<< HEAD
   <img src="./assets/icons/spring-original.svg" alt="Spring Boot" width="40" />
+=======
+  <img src="./assets/icons/nodejs-original.svg" alt="Nodejs" width="40" />
+>>>>>>> 20ccc3d0a05c1c3705c0e01ccd8a6c1ed5885bb2
 </p>
 
 <h3>🗄️ Bancos de Dados</h3>
@@ -77,13 +81,13 @@
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/paulo-vitor-5b8489251" target="_blank">
+  <a href="https://linkedin.com/in/paulovsnts" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://seu-portfolio.com" target="_blank">
+  <a href="https://paulovsnts.github.io/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
-  <a href="https://twitter.com/seu_usuario" target="_blank">
+  <a href="https://twitter.com/dev_paulovsnts" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:paulovsnts.dev@gmail.com" target="_blank">
